@@ -1,0 +1,7 @@
+C:\Users\GlebYT\source\repos\HWIDShow\HWIDShow\bin\Debug\dllimport\ConsoleHider.dll
+C:\Users\GlebYT\source\repos\HWIDShow\HWIDShow\bin\Debug\HWIDShow.exe.config
+C:\Users\GlebYT\source\repos\HWIDShow\HWIDShow\bin\Debug\HWIDShow.exe
+C:\Users\GlebYT\source\repos\HWIDShow\HWIDShow\bin\Debug\HWIDShow.pdb
+C:\Users\GlebYT\source\repos\HWIDShow\HWIDShow\obj\Debug\HWIDShow.csproj.CoreCompileInputs.cache
+C:\Users\GlebYT\source\repos\HWIDShow\HWIDShow\obj\Debug\HWIDShow.exe
+C:\Users\GlebYT\source\repos\HWIDShow\HWIDShow\obj\Debug\HWIDShow.pdb
